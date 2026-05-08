@@ -1,0 +1,16 @@
+export const clients = [
+  { name: "Galgotias", logo: "/assets/clients/galgotias.png" },
+  { name: "Arena", logo: "/assets/clients/arena.png" },
+  { name: "Lakme", logo: "/assets/clients/lakme.png" },
+  { name: "Alstone", logo: "/assets/clients/alstone.png" },
+  { name: "SBL", logo: "/assets/clients/sbl.png" },
+  { name: "ICRI", logo: "/assets/clients/icri.png" },
+  { name: "Sushant University", logo: "/assets/clients/sushant.png" },
+  { name: "Max Healthcare", logo: "/assets/clients/max.png" },
+  { name: "Megarind", logo: "/assets/clients/megarind.png" },
+  { name: "VI-John", logo: "/assets/clients/vijohn.png" },
+  { name: "SGRH", logo: "/assets/clients/sgrh.png" },
+  { name: "Prakash Books", logo: "/assets/clients/prakash.png" },
+  { name: "Ladli Foundation", logo: "/assets/clients/ladli.png" },
+  { name: "ILAM", logo: "/assets/clients/ilam.png" },
+];
